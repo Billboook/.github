@@ -3,6 +3,11 @@
 ![Billboook logo](https://billboook.in/essentials/logo/logo-2.png#gh-light-mode-only)
 ![Billboook logo](https://billboook.in/essentials/logo/logo.png#gh-dark-mode-only)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://billboook.in/essentials/logo/logo.png">
+  <img alt="Billboook logo" src="https://billboook.in/essentials/logo/logo-2.png" width="480">
+</picture>
+
 # Run your salon smarter.
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=7C5CFF&vCenter=true&width=700&lines=Billing+made+simple;POS+checkout+in+seconds;Inventory+always+under+control;Customers+and+bookings+in+one+place;Know+your+daily+sales+instantly)
