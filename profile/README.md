@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header)
 
-![Billboook logo](https://billboook.in/essentials/logo/logo-2.png)
+![Billboook logo](https://billboook.in/essentials/logo/logo-2.png#gh-light-mode-only)
+![Billboook logo](https://billboook.in/essentials/logo/logo.png#gh-dark-mode-only)
 
 # Run your salon smarter.
 
